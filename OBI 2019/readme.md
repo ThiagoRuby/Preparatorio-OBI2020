@@ -1,6 +1,6 @@
 <h1> QUESTÕES DA OBI 2019 </h1>
 
-Minhas resoluções da questões da 1ª fase da OBI 2019.
+Minhas resoluções das questões da 1ª fase da OBI 2019.
 
 <b> Questões: </b>
 
